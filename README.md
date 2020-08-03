@@ -31,12 +31,12 @@ The LeapedTools plugin allows you to Leaped Tools. The plugin can give you a lea
 
 ## Commands:
 
-`/lt` (Main LeapedTools command!)
-`/leapedtools` (Main LeapedTools command!)
-`/lperms` (Find out the permission!)
-`/leapedaxe` (Get a leaped axe!)
-`/leapall` (Leap all players!)
-`/leap` (Leap up!)
+`/lt` (Main LeapedTools command!)<br>
+`/leapedtools` (Main LeapedTools command!)<br>
+`/lperms` (Find out the permission!)<br>
+`/leapedaxe` (Get a leaped axe!)<br>
+`/leapall` (Leap all players!)<br>
+`/leap` (Leap up!)<br>
 
 <br>
 

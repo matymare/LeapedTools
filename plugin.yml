@@ -1,0 +1,23 @@
+name: LeapedTools
+main: matymare\LeapedTools\Main
+api: 3.0.0
+version: 1.0
+author: matymare
+description: Leaped tools.
+
+permissions:
+  leapedtools.main:
+    description: Permission for /lt and /leapedtools
+    default: op
+  leapedtools.axe:
+    description: Permission for /leapedaxe
+    default: op
+  leapedtools.leap:
+    description: Permission for /leap
+    default: op
+  leapedtools.leapall:
+    description: Permission for /leapall
+    default: op
+  leapedtools.lperms:
+    description: Permission for /lperms
+    default: op
